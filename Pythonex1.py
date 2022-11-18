@@ -1,1 +1,1 @@
-print('pinto plays')
+print('Olá Galera')
